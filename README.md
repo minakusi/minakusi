@@ -23,10 +23,11 @@
 
 <br/>
 <p align="center">
-<a href="https://github.com/minakusi">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syy000405)](https://solved.ac/syy000405/)
+  <a href="https://github.com/minakusi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minakusi&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syy000405)](https://solved.ac/syy000405/)
+</a> 
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
